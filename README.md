@@ -1,0 +1,2 @@
+<h1> Description</h1>
+This challenge was to create a portfolio website that we can use in the future to demonstrate the coding practices that we have learned so far within the course. In it we were expected to create a website that has a header with our name, clickable tabs for the user to be able to skip to a desired section. We were also prompted to include pictures of other previous work that we have completed to further demonstrate our coding skills.
